@@ -19,6 +19,6 @@ Task Description📄
 🔅 Create blog about task and share on your LinkedIN profile.
 
 
-Ansible Galaxy K8s Master Role=> https://lnkd.in/gvcTkwyn
+Ansible Galaxy K8s Master Role=> https://galaxy.ansible.com/yanuragaj/k8s_master_ansible_role
 
-Ansible Galaxy K8s Worker Role=> https://lnkd.in/gJYaqaBr
+Ansible Galaxy K8s Worker Role=> https://galaxy.ansible.com/yanuragaj/k8s_worker_ansible_role
