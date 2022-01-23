@@ -17,3 +17,8 @@ Task Description📄
 🔅 Create a README.md document using markdown language describing your Task in creative manner.
 
 🔅 Create blog about task and share on your LinkedIN profile.
+
+
+Ansible Galaxy K8s Master Role=> https://lnkd.in/gvcTkwyn
+
+Ansible Galaxy K8s Worker Role=> https://lnkd.in/gJYaqaBr
